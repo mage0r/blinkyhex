@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 16/06/2015 9:30:58 PM
+
+BeginCmp
+TimeStamp = /557D300D;
+Reference = C1;
+ValeurCmp = 0.1uf;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D3024;
+Reference = C2;
+ValeurCmp = 1uf;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D2EB9;
+Reference = IC1;
+ValeurCmp = WS2812B;
+IdModule  = ws2812b;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D4034;
+Reference = IC2;
+ValeurCmp = ATTINY85-S;
+IdModule  = SOIC8_W;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D3288;
+Reference = K1;
+ValeurCmp = D0;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D32EE;
+Reference = K2;
+ValeurCmp = A3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D32B3;
+Reference = K3;
+ValeurCmp = A1;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D32DC;
+Reference = K4;
+ValeurCmp = A2;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D30A7;
+Reference = K5;
+ValeurCmp = reset+in;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D324C;
+Reference = K6;
+ValeurCmp = D1;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /558007A6;
+Reference = K7;
+ValeurCmp = reset;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D576C;
+Reference = P1;
+ValeurCmp = act-a2;
+IdModule  = 603_bridge;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D57B7;
+Reference = P2;
+ValeurCmp = act-a3;
+IdModule  = 603_bridge;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D57E2;
+Reference = P3;
+ValeurCmp = act-a1;
+IdModule  = 603_bridge;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D581D;
+Reference = P4;
+ValeurCmp = act-1;
+IdModule  = 603_bridge;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D5825;
+Reference = P5;
+ValeurCmp = act-0;
+IdModule  = 603_bridge;
+EndCmp
+
+BeginCmp
+TimeStamp = /558007E1;
+Reference = P6;
+ValeurCmp = MISO;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55800802;
+Reference = P7;
+ValeurCmp = SCK;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55800808;
+Reference = P8;
+ValeurCmp = MOSI;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5580078F;
+Reference = P9;
+ValeurCmp = ISCP;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5580084B;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+EndListe
