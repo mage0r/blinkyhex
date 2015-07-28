@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 16/06/2015 9:30:58 PM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/07/2015 11:54:53 PM
 
 BeginCmp
 TimeStamp = /557D300D;
@@ -32,49 +32,49 @@ BeginCmp
 TimeStamp = /557D3288;
 Reference = K1;
 ValeurCmp = D0;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D32EE;
 Reference = K2;
 ValeurCmp = A3;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D32B3;
 Reference = K3;
 ValeurCmp = A1;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D32DC;
 Reference = K4;
 ValeurCmp = A2;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D30A7;
 Reference = K5;
 ValeurCmp = reset+in;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D324C;
 Reference = K6;
 ValeurCmp = D1;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
 TimeStamp = /558007A6;
 Reference = K7;
 ValeurCmp = reset;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = pixelstrip-array;
 EndCmp
 
 BeginCmp
